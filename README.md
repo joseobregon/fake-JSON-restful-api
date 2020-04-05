@@ -1,2 +1,2 @@
-# fake-JSON-restful-endpoints
+# fake-JSON-restful-api
 A fake JSON restful API
