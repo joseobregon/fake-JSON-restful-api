@@ -1,14 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Clean the house"
+    "title": "Clean the house",
+    "done": true
   },
   {
     "id": 2,
-    "title": "Do the laundry"
+    "title": "Do the laundry",
+    "done": false
   },
   {
     "id": 3,
-    "title": "Call Marie"
+    "title": "Call Marie",
+    "done": false
   }
 ]
